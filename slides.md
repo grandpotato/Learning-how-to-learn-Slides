@@ -90,4 +90,110 @@ When you sleep you brain also strengthens things you have tried to learn. To imp
 This technique can make a remarkable difference in your ability to learn.
 
 #Chunking
-##Introduction into Chunking
+##What is a chunk
+A chunk is a group of neurons that represent a concept or idea that are used to firing together. Over time through repetition chunks can be grown to become more complex and encompassing. It does require your mind to be focussed to learn chunks. So you can't be tierd.
+
+##How to form a chunk part I
+When building chunks start small. 
+
+For example justinguitar starts by making you learnt the fingering for a chord. Then you learn the fingering for another chord. And then you practice the transition. In both directions. Then you practice a strum. With one chord. and then the next. and then while changing between the two chords.
+
+Or for a physical sport say handstands, you learn about hand position, bodyline, tucked tail, tight core and pointed toes. You do them separately and you work them together. Even the counter balancing exercises like shoulder break and finger push. Slowly each part gets knitted together into a chunk. You can form a larger chunk eventually by adding new handstang positions or entry methods. But its all built together bit by bit and slowly.
+
+Be careful of worked examples. If you understand the steps. You might forget to focus on the overall concept.
+
+##How to form a chunk part II
+1. Focus your undivided attention on the material you want to chunk
+2. Understand the concept first before details
+3. Hiding the material and then try to recall it. Understanding while reading is different from mastery.
+4. You MUST be able to do it yourself
+5. Context - Learn how this chunk works in different situations. When you use it and when NOT to use it
+6. A picture and a section heading walk before reading the chapter will help you learn the chunk. *KH: This is why abstracts and exec summaries are SO important. Limit them to 20mins of consumption*
+
+##Illusions of Competance
+- Just reading the text and "understanding" isn't a good method of learning. Recall and practice is MUCH more efective. (you can reread later in time to make it more like spaced repetition)
+- Going straight to concept maps also doesn't work well because the chunks of knowledge tying the concepts together have not been solidly formed
+- Highlighting and underlining must be done carefully. Do it minimally. *KH- I kinda do this anyway*
+- Recall (close the book and test yourself), rehersing is a good way of doing this in speeches.
+- Change the room you were doing the recall in when practicing. Your brain will pick up cues from those rooms subconciously and you'll require them for recall. By changing the environment you loosen the mental hooks to the enviroment and they become stronger with the material.
+
+#Seeing the Bigger Picture
+##What Motivates you?
+There are 3 neural chemicals assocated with learning
+- Acetylcholine is produced to help you form connections in your focused mode
+- Dopamine is released during a reward or unexpected reward. we tap into this system using the pomodoro technique to get used to learning (also for the HIIT exercises)
+- Seretonin affects social life and risk taking behaviour. Leaders in monkey packs tend to have higher seretonin.
+
+Your emotions drive learning a lot (I liked being smart and being important knowing everything) which is probably why I studied hard as well as getting recognition at test and report card time.
+
+##The Value of a Library of Chunks
+- When you build a library your mind has more options and more combinations to thnk of creative solutions
+-Chunks can also grow and become bigger and more ingrained allowing you to understand even deeper subjects *KH: Keep an eye on progressions in knowledge. This is especially important when trying to understand if people are not at your level and you need to bring them up*
+- Transfer where a chunk in one field is very similar to another field (handstands, learning, guitar
+- There are two types of ways to think about a problem Sequential (focused mode) and holistic/global (diffuse). Its a good idea to check the holistic thinking actually makes sense by validating using the sequential mode 
+- **Lady luck favors the one who tries** its not always easy. It just gets easier the more you try
+
+*KH: Note to self. Revisiting a thought or idea isn't bad. Bring it up again and ask people if your new understanding is correct. You know you dwell on things long after the conversation ends but new ideas form. Its a good thing*
+
+#Procrastination and Memory
+
+##Introduction to Procrastinationand Memory
+
+
+##Tackling procrastination - It's Easier and More Valuable than you think
+
+##Zombies Everywhere
+
+##Surf's Up: Process Versus Product
+
+##Harnessing Your Zombies to Help You
+
+##Juggling Life and Learning
+
+##Summing up Procrastination
+
+#Memory
+
+##Diving Deeper into Memory
+
+##What is Long Term Memory?
+
+##Creating Meaningful Groups and the Memory Palace Technique
+
+##Summing Up Memory
+
+#Renaissance Learning and Unlocking Your Potential I
+
+##How to become a better learner
+
+##Introduction to Renaissance Learning and Unlocking Your Potential
+
+##Create a Lively Visual Metaphor or Analogy
+
+##No Need for Genius Envy
+
+##Change Your Thoughts, Change your Life
+
+#Renaissance Learning and Unlocking Your Potential II
+
+##The Value of Teamwork
+
+##A Test Checklist
+
+##Hard Start - Jump to Easy
+
+##Final Helpful Hints for Tests
+
+#MY Summary Sections
+
+##Overview
+- Concepts (Short and long term memory, Focused/diffuse mode, Chunking, Illusions of Competance, habits/zombies)
+- Brain chemistry (brainfacts! Exercise, parts of the brain, the brain chemicals, social animals)
+- Techniques (Pomodoro, Eat the frog, Reward!, Mind Palace, Spaced Repetition, Picture Walk THEN focus, Exercise, Work with people, use visual metaphor, change locations of repetition, RECALL, if you memorise space it!, focus before sleep, deep breaths and relax, sleep enough, interleave your learning, overview the concept first then focus on chunks to piece it all together, LADY
+ LUCK FAVOURS THOSE WHO TRY! Even if its hard, the next piece will be easier)
+ 
+ ##Concepts
+ 
+ ##Brain Chemistry
+ 
+ ##Techniques (ooh boy there's a lot)
