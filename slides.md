@@ -137,52 +137,173 @@ Your emotions drive learning a lot (I liked being smart and being important know
 
 #Procrastination and Memory
 
-##Introduction to Procrastinationand Memory
-
-
 ##Tackling procrastination - It's Easier and More Valuable than you think
+When you're thinking doing something you find difficult your brain automatically responds by lighting up areas associated to actual physical pain. However, once you start very quickly the pain sensations will go away.
+
+Procrastination is a terrible habit that builds. The more you succumb to it the more painful it'll be subsequent times you try NOT to procrastinate. Also as you procrastinate you're brain automatically rationalises reasons of why the material is hard, or that you shouldn't be studying it and the more you do it, then the better you get at it. By mastering procrastination you make yourself effective at getting things done.
+
+When learning or working. Eat the frog. If you do the hardest most difficult thing first it'll be easier in the end.
 
 ##Zombies Everywhere
+You have limited willpower. Which is why most of the time you spend you're in zombie mode.
+Which are your habits. And you want them to work for you not against you. And they need to be built like chunks
+There are 4 stages to a habit
+1. The Cue - This is the emotion/environment/event that causes you to trigger your habit 
+*KH: you know how you reach towards junk food when you study?*
+2. The Routine - This is what you start doing once the cue triggers the habit
+3. The Reward - This makes your brain feel good when you get to do the process. Almost like satisfying an itch. In procrastination its basically moving away from your initial task
+4. The belief - Knowing that this habit is you or can become you. And trust the process. Meaning you can change and build new zombies. YAY! *KH: Is this 4 steps to a habit or 4 parts? because I don't know where this one fits in*
 
 ##Surf's Up: Process Versus Product
+Your brain feels pain when it thinks about physical things that make it uncomfortable. So for example thinking about a report, or a thesis. The goal can seem overwhelming. Sometimes its uncomfortable when you're about to start a subject you like.
+f you instead focus on process "I'll work on the report for one pomodoro" it becomes MUCH more palettable for your brain. *KH: it might also become more useful in figuring out how long it takes to do bits of work*
+
+Use your pomodoros to help you. Find good environments to support your work.
+Remove yourself from bad enviroments cues and distractions. So switch off your phone, don't check your email and remove snacks from the area. This way when you work. You're working
+If you setup good habits then it'll be more painful not to do the right thing!
 
 ##Harnessing Your Zombies to Help You
+*KH: I feel like I've talked about this already*
+You don't want to change all your habits. Just a few. And to do that you just need to modify your response to a cue.
+Cues are usually:
+- locations
+- times
+- Your feelings
+- an event in your environment
+
+Removing cues can be especially effective in training zombies
+
+Once you know your cues. You can change your response to it. but you need a plan. It may often fail. But that's OK. when it works. Celebrate!
+
+Reward. This comes in the celebration part, give youself a mental break. meditate, or a treat, or give yourself some words of encouragement "WELL DONE KEVIN". Maybe Amy cuddy it and fist pump!
+Scale the reward as well for hard work!
+
+You must believe that you can do it. Community can help you do things. Like accountability buddies. And they help you remember that we're all human and we sometimes fail.
+
+
 
 ##Juggling Life and Learning
+- Have a planner journal
+- Set weekly goals
+- Before sleeping each night review your goals. Maybe break it down to specific tasks.
+- Plan your quitting time
+- Leisuire time is important. Mix up learnign with physical activity
+- Eat your frogs first
 
 ##Summing up Procrastination
+- Keep a planner journal
+- Commit yourself to certain routines and tasks each day (pratce commitment)
+- Have backup plans for when you still procrastinate *KH:like accountability buddy...what else??*
+- Eat the frog first
+- Gain Trust in the System
+- Setup routines or habits (work and play time) 
+- Delay rewards until you finish the task
 
 #Memory
 
 ##Diving Deeper into Memory
+Our memory are built around our visual systems. We can remember images much better than we can abstract concepts. So use metaphors analogies and try to imagine yourself inside the concept. As you do, engage the image by imagining what you would hear, feel, smell and sense.
+
+Then recall that memory later one. Flash cards are helpful. Creating or drawing the cards helps your brain remember. and then say it aloud ot build auditory cues. Then use the card periodically. See if you can recall the material put the card away. Once you have built a deck. Mix them up and see if you can remember. This helps interleaving. Anki is agreat program to help do this for you.
 
 ##What is Long Term Memory?
+Long term memory is when you can recall new experiences or enviroments. It is very dependant on your hippocampus. Memories are strengthened through a process called reconsolidation. However each time you remember things the memory is slightly altered. You can even make false memories indistinguishable from real ones.
 
 ##Creating Meaningful Groups and the Memory Palace Technique
+Create nmeonics or anagrams to help you remember.
+Associate numbers or dates with meaningful envents in your life *KH like Mark's stupid way  of  remembering '7260'. Its a 720 spin, followed by a 360 spin. Just miss out the middle stuff*
 
-##Summing Up Memory
+The memory palace technique is way to remember list of many unrelated items. 
+1. Think of a place you know very well. For example your home
+2. Imagine yourself walking through the home.
+3. For each item you want to remember put a ridiculous image in your head. i.e. you need to buy a dozen eggs at the store. Have an eggexcute rolling around demanding to be in the cart. The more visual, audiable, smellable, touchable the idea the stronger that item will stay in your memory.
+4. As you walk through your home in the same order you'll be able to recall the items in the list.
+5. The more you practice your palace the better you'll be at it.
+
+Use your childlike creativity. It'll serve you well.
 
 #Renaissance Learning and Unlocking Your Potential I
 
+
 ##How to become a better learner
+Here are some tips
+- Exercise! It helps you build neurons!
+- Critical periods of learning
+- First language acquisition - Up to puberty
+- Steropsis (depth perception) 2 years of age *KH:I might be a bit messed up here*
+- The prefrontal cortex where planning, complex analysis, decision making and social interaction occurs is the last art to mature. There are lots of 'Zombies' in here
 
 ##Introduction to Renaissance Learning and Unlocking Your Potential
+Learning is not linear. Sometimes you'll reach a plateau and it seems like things you use to understand no longer makes sense. This could be a period of when your brain restructures. Just be persistent and keeping working at it. You'll get better.
 
 ##Create a Lively Visual Metaphor or Analogy
+When you want to remember something and understand concepts. Associate it with a very visual metaphor *KH: Cake chef as an example of solar panels!*
+The more animated you make the metaphor or analogy the more likely it'll stick. Try to engage your senses and emotions to the idea to help it stick more. And pretend you're the object you're trying to understand. And experience what it feels like as the concept.
+
+Also sometimes you'll need an analogy or metaphor just to begin. But when your understanding reaches a point where it no longer makes sense. You can discard it for another one.
+
+It is also useful for getting your thought pattern out of einstellung.
 
 ##No Need for Genius Envy
+Repetition ultimately makes you learn things properly.
+
+Sometimes your expertise gets so good you dont' focus on it and you forget about why you do things but just rely on your well trained diffuse mode to solve the problem.
+
+Some people have more working memory than others.
+
+Some people can't hold much in their working memeory but are far more creative with the chunks once they form them. Both is ok.
+
+Don't worry about what other people know. Or what you feel like you SHOULD know. Just keep working on it. You might feel like an imposter at first. But the more your practice eventually you will become capable. Have faith. Keep working hard.
 
 ##Change Your Thoughts, Change your Life
+We can change our brain by changing our thinking.
+
+Perserverance is the virtue of the less gifted.
+
+Ability to change their own mind in the face of evidence.
+
+Don't always be empathetic. Sometimes you need to ignore criticism. Take pride in aiming for success. Especially if its despite what people may say you can do. Including yourself.
 
 #Renaissance Learning and Unlocking Your Potential II
 
 ##The Value of Teamwork
+The left brain is the analytical thinking part of the brain. However. It can dogmatically hold onto ideas or beliefs it has made to make sense of the world or the problem you're looking at.
+
+The right brain is allows for a more big picture view. 
+
+However sometimes its easier to leverage people help challenge your ideas of what you done *KH: Employ the RED team thinking. Get people to challenge you even if you're right*
+
+Study groups can be powerful for learning. But make sure that it doesnt' become social.
+make sure everyone shows up on time, reviews the material before showing up and stays on topic.
+
 
 ##A Test Checklist
+Testing is one of the most effective ways to help recall and solidfy material you're trying to learn.
+
+When asking yourself "Have I prepared for this test?" Make sure you answer "yes" to most of Dr. Richard Felder's checklist. <http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/memo.pdf>
+
+When you're doing tasks you're unfamiliar with it can be daunting. 
+Before taking tests summurise the main ideas you wish to tackle and work through the items one by one. This is like focusing on process not product because you can break down things into small managable bites.
+
+Checklists can work for tests or any other situations like reports to make sure you're prepared and ready to deliver.
+
+Pilots and doctors do it all the time before flight and surgery because its important. You can utilise this technique too!
 
 ##Hard Start - Jump to Easy
+When tackling a test (or a set of problems). Read through all of them and try and do the hardest one first. Give it focused attention for a while. When you've done as much as you can. Leave it and go onto the other questions. What happens is that you're priming your brain to work on the problem in the diffuse mode. So while you're working on the easier problems and going through them your brain will try and work out the hard one. When you come back to it later you'll find that you might be able to do more or the whole thing!
 
 ##Final Helpful Hints for Tests
+Change your perception. By telling your story about why you have sweaty palms or butterflies in your stomach has been shown by research to make all the different.
+That is tell yourself you're excited. Not that you're stressed.
+
+Breath deeply into the stomach. This will calm you down. *KH: Same with washing your face and other free diving tips like holding your breath*
+
+Have a long term plan B for what will happen if you fail. i.e *KH: if I can't do urban planning data science I can still move into smart grid*.
+
+When checking. Look at your work in a diffuse mode. Look away. take a deep breath and take a big picture look at the problem. Your mind can trick you into thinking you've done the correct thing.
+*Look for ways to check your results in big picture ways*
+
+Check your work back to front. It may help you.
 
 #MY Summary Sections
 
